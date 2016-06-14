@@ -6,7 +6,7 @@ In geometry, the Fermat point of a triangle, also called the Torricelli point or
 
 Use kid-fermat.js you can get the 'fermat point' of more than three points.
 
-for example:
+Example:
 ----------------------------
 
 ```js
