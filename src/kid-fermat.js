@@ -15,7 +15,7 @@
 
     window.kid = window.kid || {};
 
-    kid.findFermatPoint = function(points){
+    kid.getFermatPoint = function(points){
         var p = average(); //初始计算点
         var step = summation(p)/points.length;//p点到各点的平均距离作为初始步长值
         var threshold = step/10000; //计算结果的精度
