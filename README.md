@@ -1,4 +1,5 @@
-# fermat
+# Kid-fermat
+
 Get fermat point of more than three points.
 
 In geometry, the Fermat point of a triangle, also called the Torricelli point or Fermat-Torricelli point, is a point such that the total distance from the three vertices of the triangle to the point is the minimum possible.
@@ -6,6 +7,7 @@ In geometry, the Fermat point of a triangle, also called the Torricelli point or
 Use kid-fermat.js you can get the 'fermat point' of more than three points.
 
 for example:
+----------------------------
 
 ```js
   var points = [{x:20,y:234},{x:140,y:35},{x:98,y:149},{x:220,y:359},{x:657,y:127},{x:50,y:91}];
